@@ -9,7 +9,7 @@ from select_sort import selection
 
 app = Tk()
 
-app.title("AlgoVizualizer")
+app.title("AlgoViz")
 
 app.maxsize(1200,900)
 app.config(bg="black")
